@@ -1,4 +1,4 @@
-# File_renemer
+# File_renamer
 このrenamerを使えば、課題提出時に面倒な名前を変える手間を減らすことができます。
 
 ## ダウンロード
