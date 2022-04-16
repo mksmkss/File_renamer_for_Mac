@@ -25,6 +25,7 @@ unix実行ファイルとして認識されていれば成功です。
 4. Task nameには、「課題_1」や「力学課題」のようなものを入れてください。
 5. 「Enter Key」または「Rename」を押すと実行され、選択したファイルの名前が「課題名_学籍番号_名前.(拡張子)」に変更されます。
 
+![GIF](https://media.giphy.com/media/R1lIBDzC0iaCjYuI1l/giphy.gif)
 ## 注意点
 
 unix実行ファイルですので、macでのみ実行可能です。
