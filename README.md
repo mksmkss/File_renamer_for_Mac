@@ -18,6 +18,7 @@
 unix実行ファイルとして認識されていれば成功です。<br>
 ![](https://user-images.githubusercontent.com/69677364/163746522-1cacb0af-2d99-49d1-99c3-5772897baa50.jpg)
 
+
 ## 使い方
 
 1. file_rename_macを開きます。
@@ -26,7 +27,7 @@ unix実行ファイルとして認識されていれば成功です。<br>
 4. Task nameには、「課題_1」や「力学課題」のようなものを入れてください。
 5. 「Enter Key」または「Rename」を押すと実行され、選択したファイルの名前が「課題名_学籍番号_名前.(拡張子)」に変更されます。
 
-![GIF](https://media.giphy.com/media/R1lIBDzC0iaCjYuI1l/giphy.gif)
+https://user-images.githubusercontent.com/69677364/163747642-8a50f979-9dc9-44ba-b203-1ae9f075e23f.mp4
 ## 注意点
 
 unix実行ファイルですので、macでのみ実行可能です。
